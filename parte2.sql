@@ -14,16 +14,16 @@ VALUES
 ( NULL, 'fagner', 'example10@gmail.com', '99999997', '2003-02-02' );
 INSERT INTO PRODUTOS
 VALUES
-( NULL, 'Teste', 5.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 100 ),
-( NULL, 'teste1', 6.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 200 ),
-( NULL, 'teste2', 7.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 300 ),
-( NULL, 'Teste3', 8.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 400 ),
-( NULL, 'Teste4', 9.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 500 ),
-( NULL, 'Teste5', 10.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 600 ),
-( NULL, 'Teste6', 11.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 700 ),
-( NULL, 'Teste7', 12.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 800 ),
-( NULL, 'Teste8', 13.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 900 ),
-( NULL, 'Teste9', 14.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 1000 );
+( NULL, 'Teste1', 5.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 100 ),
+( NULL, 'teste2', 6.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 200 ),
+( NULL, 'teste3', 7.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 300 ),
+( NULL, 'Teste4', 8.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 400 ),
+( NULL, 'Teste5', 9.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 500 ),
+( NULL, 'Teste6', 10.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 600 ),
+( NULL, 'Teste7', 11.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 700 ),
+( NULL, 'Teste8', 12.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 800 ),
+( NULL, 'Teste9', 13.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 900 ),
+( NULL, 'Teste10', 14.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 1000 );
 
 SELECT * FROM PEDIDOS;
 INSERT INTO PEDIDOS
